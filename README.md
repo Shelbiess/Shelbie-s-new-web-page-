@@ -9,6 +9,7 @@
 
     <h1>Welcome to my page</h1>
        <h2>This is my first paragraph</h2>
+    <p>Hello my name is Shelbie, and this is my first web page. I will be writing my page about Antique dolls<p>
      </div>
 </body>
 </html>
